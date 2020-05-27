@@ -31,3 +31,26 @@ ___
 <p align="center">
 <img height="300" src="doc/conv_auto_encoder_loss.png" />
 </p>
+
+___
+
+#### U-Net
+
+<img src="doc/unet_output.png" style="background:whitesmoke;padding:10px 20px;"/>
+
+* pretty much overfitting but i'll cross validate it later.
+
+> Epoch Results 
+
+![](doc/unet_epochs.gif)
+
+> Loss Over Epochs 
+<p align="center">
+<img height="300" src="doc/unet_loss.png" />
+</p>
+
+> And Finally The Architecture Used.
+
+<p align="center">
+<img src="doc/unet.png" width="100%" height="70%" />
+</p>
